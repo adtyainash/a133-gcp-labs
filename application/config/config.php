@@ -23,8 +23,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-// TODO: Sesuaikan dengan base url front-end yang digunakan
-// $config['base_url'] = 'base_url_frontend_Anda';
+// TODO: Sesuaikan dengan base url front-end yang digunakan [DONE]
+$config['base_url'] = 'http://34.101.117.72';
 
 /*
 |--------------------------------------------------------------------------
